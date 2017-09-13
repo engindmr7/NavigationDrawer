@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_hesabım"
+        android:title="Hesabım"
+        android:icon="@mipmap/ic_account_circle_black_24dp"></item>
+
+    <item android:id="@+id/nav_ayarlar"
+        android:title="Ayarlar"
+        android:icon="@mipmap/ic_settings_black_24dp"></item>
+
+    <item android:id="@+id/nav_cikis"
+        android:title="Çıkış"
+        android:icon="@mipmap/ic_exit_to_app_black_24dp"></item>
+
+</menu>
